@@ -5,12 +5,11 @@
 
 โดย code ส่วนของการสร้าง model เราจะอ้างอิงจากโปรเจ็ค 'Thai Number Recognition' ที่เราได้ทำขึ้นก่อนหน้านี้
 
-ซึ่งเว็บไซต์ หรือผลลัพธ์ที่ได้นั้นจะมีทั้งหมด 4 ส่วน นั่นคือ
+ซึ่งเว็บไซต์ หรือผลลัพธ์ที่ได้นั้นจะมีทั้งหมด 3 ส่วน นั่นคือ
 
   1. Input Data for Training
   2. Model Result and Evaluation
   3. Input Image for Testing
-  4. Function for Testing Number
 
 ## 1. Input Data for Training
 
