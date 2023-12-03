@@ -1,7 +1,7 @@
 # Dash Application For Thai Numbers Recognition
 
 ## Objective
-โปรเจ็คนี้เป็นโปรเจ็คที่จัดทำขึ้นเพื่อส่งในวิชา Data Aanalytics and Data Science Tools and Programming ของสถาบันบัณฑิตพัฒนบริหารศาสตร์(NIDA) โดยวัตถุประสงค์ของโปรเจ็คนี้ คือการสร้าง Dash Application เพื่อให้สามารถสร้าง 'Machine Learning Model สำหรับจดจำและทำนายตัวเลขภาษาไทยที่เขียนด้วยลายมือ' ผ่านทาง website ได้ 
+วัตถุประสงค์ของโปรเจ็คนี้คือการสร้าง Dash Application เพื่อให้สามารถสร้าง 'Machine Learning Model สำหรับจดจำและทำนายตัวเลขภาษาไทยที่เขียนด้วยลายมือ' ผ่านทาง website ได้ 
 
 โดย code ส่วนของการสร้าง model เราจะอ้างอิงจากโปรเจ็ค 'Thai Number Recognition' ที่เราได้ทำขึ้นก่อนหน้านี้
 
